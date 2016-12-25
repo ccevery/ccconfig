@@ -1,0 +1,9 @@
+path.allow.char.question=false
+path.allow.char.and=false
+min.amount=5000
+max.depth=-1
+min.depth=-1
+#url.forbiden.contains.strings=
+#url.forbiden.contains.strings=
+#url.forbidden.regular.expressions=
+#url.forbidden.regular.expressions=

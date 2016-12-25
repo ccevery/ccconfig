@@ -1,0 +1,5 @@
+name=image
+extension=.jpg
+extension=.png
+#if crawl Image, will collect img[src]
+crawlImage=false
